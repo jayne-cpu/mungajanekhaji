@@ -1,0 +1,32 @@
+1. What is a Class?
+A class is a blueprint or a template for creating objects. 
+
+2. What is an Instance?
+An instance is a specific object created from a class.
+
+3. What is Encapsulation?
+Encapsulation is the practice of bundling data and the methods that operate on that data into a single unit (the class) and restricting access to some of the object's components. 
+
+Analogy: You use a volume knob on a radio (the public interface) without needing to touch the internal wires (the private data).
+
+4. What is Abstraction?
+Abstraction is the process of hiding complex implementation details and showing only the necessary features of an object.
+
+Analogy: When you heat food in a microwave, you only interact with the interface (buttons). 
+
+5. What is Inheritance?
+Inheritance allows a new class (subclass/child) to adopt the attributes and methods of an existing class (superclass/parent). This promotes code reusability.
+
+Example: A ElectricCar class can inherit from a Car class, gaining the drive() method automatically while adding its own unique chargeBattery() method.
+
+
+Shutterstock
+6. What is Multiple Inheritance?
+Multiple inheritance occurs when a class can inherit features from more than one parent class.
+
+7. What is Polymorphism?
+Polymorphism (meaning "many shapes") allows different classes to be treated as instances of the same superclass through the same interface. 
+
+
+8. What is Method Resolution Order (MRO)?
+MRO is the specific order in which a programming language searches for a method or attribute in a hierarchy of classes. 
